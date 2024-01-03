@@ -29,8 +29,6 @@ The juptyer notebook contains code to train a model to perform phrase similarity
 
 The juptyer notebook contains code to train a model to perform phrase similarity classification, using contextual embeddings.
 
-The directory also contains a folder ********************embeddings******************** that has the necessary files for the GloVe model used in the task.
-
 ### sentence similarity
 
 This directory contains the following files:
@@ -46,5 +44,3 @@ The juptyer notebook contains code to train a model to perform sentence similari
 **********************************************************added_transformer_layer.ipynb**********************************************************
 
 The juptyer notebook contains code to train a model to perform sentence similarity classification, using a pre-trained transformer based model to get sentence embeddings and an additional transformer layer which has been implemented from scratch to derive more meaning from the features.
-
-The directory also contains a folder ********************embeddings******************** that has the necessary files for the GloVe model used in the task.
