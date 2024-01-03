@@ -1,3 +1,5 @@
+# Report
+The report on the code can be found on this link: https://soapy-poet-5fa.notion.site/NLP-502e1fc1685047bcae07d854ab58337d?pvs=4
 # Directory structure
 
 ### word similarity
